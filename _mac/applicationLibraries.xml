@@ -1,0 +1,244 @@
+<application>
+  <component name="libraryTable">
+    <library name="all" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__use.fontawesome.com_releases_v5.0.3_js_all.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_use.fontawesome.com_releases_v5.0.3_js_all.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__use.fontawesome.com_releases_v5.0.3_js_all.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_use.fontawesome.com_releases_v5.0.3_js_all.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="api" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.google.com_recaptcha_api.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.google.com_recaptcha_api.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="bootstrap" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__maxcdn.bootstrapcdn.com_bootstrap_3.3.7_js_bootstrap.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__maxcdn.bootstrapcdn.com_bootstrap_4.0.0-beta.3_js_bootstrap.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__netdna.bootstrapcdn.com_bootstrap_3.1.1_js_bootstrap.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_maxcdn.bootstrapcdn.com_bootstrap_3.3.7_js_bootstrap.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_maxcdn.bootstrapcdn.com_bootstrap_4.0.0-beta.3_js_bootstrap.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__maxcdn.bootstrapcdn.com_bootstrap_3.3.7_js_bootstrap.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__maxcdn.bootstrapcdn.com_bootstrap_4.0.0-beta.3_js_bootstrap.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__netdna.bootstrapcdn.com_bootstrap_3.1.1_js_bootstrap.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_maxcdn.bootstrapcdn.com_bootstrap_3.3.7_js_bootstrap.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_maxcdn.bootstrapcdn.com_bootstrap_4.0.0-beta.3_js_bootstrap.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="conversion" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__www.googleadservices.com_pagead_conversion.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__www.googleadservices.com_pagead_conversion.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="handlebars" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_handlebars.js_4.0.6_handlebars.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_handlebars.js_4.0.6_handlebars.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="html5shiv" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__oss.maxcdn.com_libs_html5shiv_3.7.0_html5shiv.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_oss.maxcdn.com_html5shiv_3.7.2_html5shiv.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_oss.maxcdn.com_html5shiv_3.7.3_html5shiv.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_oss.maxcdn.com_libs_html5shiv_3.7.0_html5shiv.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__oss.maxcdn.com_libs_html5shiv_3.7.0_html5shiv.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_oss.maxcdn.com_html5shiv_3.7.2_html5shiv.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_oss.maxcdn.com_html5shiv_3.7.3_html5shiv.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_oss.maxcdn.com_libs_html5shiv_3.7.0_html5shiv.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="imagesloaded.pkgd" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_jquery.imagesloaded_4.1.1_imagesloaded.pkgd.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_jquery.imagesloaded_4.1.1_imagesloaded.pkgd.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="isotope.pkgd" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_jquery.isotope_3.0.1_isotope.pkgd.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_jquery.isotope_3.0.1_isotope.pkgd.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="jquery" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_jquery_3.2.1_jquery.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jquery_1.10.2_jquery.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jquery_1.11.2_jquery.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jquery_2.1.4_jquery.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jquery_3.1.1_jquery.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_jquery_3.2.1_jquery.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jquery_1.10.2_jquery.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jquery_1.11.2_jquery.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jquery_2.1.4_jquery.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jquery_3.1.1_jquery.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
+    <library name="jquery-3.1.1" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <option name="frameworkVersion" value="1.1." />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_jquery-3.1.1.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_jquery-3.1.1.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
+    <library name="jquery-3.2.1" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__code.jquery.com_jquery-3.2.1.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__code.jquery.com_jquery-3.2.1.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
+    <library name="jquery-3.2.1.slim" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__code.jquery.com_jquery-3.2.1.slim.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_jquery-3.2.1.slim.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__code.jquery.com_jquery-3.2.1.slim.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_jquery-3.2.1.slim.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
+    <library name="jquery.payment" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_jquery.payment_1.2.3_jquery.payment.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_jquery.payment_1.2.3_jquery.payment.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="jquery.validate" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_jquery-validate_1.13.1_jquery.validate.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_jquery-validate_1.13.1_jquery.validate.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
+    <library name="popper" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_popper.js_1.12.9_umd_popper.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_popper.js_1.12.9_umd_popper.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_popper.js_1.12.9_umd_popper.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_popper.js_1.12.9_umd_popper.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="respond" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__oss.maxcdn.com_libs_respond.js_1.4.2_respond.min.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_oss.maxcdn.com_libs_respond.js_1.4.2_respond.min.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_oss.maxcdn.com_respond_1.4.2_respond.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__oss.maxcdn.com_libs_respond.js_1.4.2_respond.min.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_oss.maxcdn.com_libs_respond.js_1.4.2_respond.min.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_oss.maxcdn.com_respond_1.4.2_respond.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="underscore" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_underscore.js_1.8.3_underscore.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_underscore.js_1.8.3_underscore.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
