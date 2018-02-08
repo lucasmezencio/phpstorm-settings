@@ -16,10 +16,12 @@
     <library name="api" type="javaScript">
       <properties>
         <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__apis.google.com_js_api.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.google.com_recaptcha_api.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__apis.google.com_js_api.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.google.com_recaptcha_api.js" />
       </CLASSES>
       <SOURCES />
