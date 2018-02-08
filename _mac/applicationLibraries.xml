@@ -58,6 +58,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="countUp" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_countup.js_1.9.3_countUp.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_countup.js_1.9.3_countUp.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="handlebars" type="javaScript">
       <properties>
         <sourceFilesUrls>
