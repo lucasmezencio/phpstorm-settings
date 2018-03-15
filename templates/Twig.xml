@@ -7,4 +7,11 @@
     <variable name="TEMPLATE" expression="" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="forelse" value="{% for $VAR$ in $SEQUENCE$ %}&#10;    $END$&#10;{% else %}&#10;{% endfor %}" description="for...in...else...endfor" toReformat="true" toShortenFQNames="false">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="SEQUENCE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Twig" value="true" />
+    </context>
+  </template>
 </templateSet>
