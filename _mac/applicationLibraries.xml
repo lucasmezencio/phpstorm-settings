@@ -4,12 +4,16 @@
       <properties>
         <sourceFilesUrls>
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__use.fontawesome.com_releases_v5.0.3_js_all.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__use.fontawesome.com_releases_v5.0.8_js_all.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_use.fontawesome.com_releases_v5.0.3_js_all.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_use.fontawesome.com_releases_v5.0.8_js_all.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__use.fontawesome.com_releases_v5.0.3_js_all.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__use.fontawesome.com_releases_v5.0.8_js_all.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_use.fontawesome.com_releases_v5.0.3_js_all.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_use.fontawesome.com_releases_v5.0.8_js_all.js" />
       </CLASSES>
       <SOURCES />
     </library>
