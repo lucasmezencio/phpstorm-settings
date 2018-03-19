@@ -53,6 +53,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="clipboard" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_clipboard.js_2.0.0_clipboard.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_clipboard.js_2.0.0_clipboard.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="conversion" type="javaScript">
       <properties>
         <sourceFilesUrls>
