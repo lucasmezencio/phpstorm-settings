@@ -7,7 +7,7 @@
       <option name="PHP Comment" value="false" />
     </context>
   </template>
-  <template name="func" value="function ($PARAM$) {&#10;    $END$&#10;}" description="Inserts function expression" toReformat="false" toShortenFQNames="true">
+  <template name="func" value="function ($PARAM$) {&#10;    $END$&#10;}" description="Inserts function epression" toReformat="false" toShortenFQNames="true">
     <variable name="PARAM" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
@@ -43,26 +43,6 @@
   <template name="try" value="try {&#10;    $END$&#10;} catch ($EXCEPTION$) {&#10;    $CATCH$&#10;}" description="Inserts try catch expression" toReformat="false" toShortenFQNames="true">
     <variable name="EXCEPTION" expression="" defaultValue="&quot;\\Exception $e&quot;" alwaysStopAt="true" />
     <variable name="CATCH" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="PHP" value="true" />
-    </context>
-  </template>
-  <template name="pubtf" value="/** @test */&#10;public function $NAME$(){&#10;    $END$&#10;}" description="public test function" toReformat="true" toShortenFQNames="true">
-    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="PHP Class Member" value="true" />
-    </context>
-  </template>
-  <template name="pubif" value="public function $NAME$($PARAMETERS$)$END$;" description="public interface function without body" toReformat="true" toShortenFQNames="true">
-    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="PARAMETERS" expression="phpVar" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="PHP Class Member" value="true" />
-    </context>
-  </template>
-  <template name="fun" value="function $NAME$($PARAM$) {&#10;    $END$&#10;}" description="Inserts function with name expression" toReformat="false" toShortenFQNames="true">
-    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="PARAM" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
     </context>

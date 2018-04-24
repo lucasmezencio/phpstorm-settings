@@ -1,13 +1,5 @@
 <scheme name="Darcula Mine" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
-  <metaInfo>
-    <property name="description" />
-    <property name="modified">2018-01-04T09:27:04</property>
-    <property name="vendorMail">lucas.mezencio@gmail.com</property>
-    <property name="vendorName">Lucas Mezencio</property>
-    <property name="vendorUrl">http://lucasmezencio.com</property>
-    <property name="version">0.1</property>
-  </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
   <option name="EDITOR_LIGATURES" value="true" />
