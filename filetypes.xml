@@ -3,6 +3,8 @@
     <extensionMap>
       <mapping pattern=".env.*" type="Ini" />
       <mapping pattern=".env" type="Ini" />
+      <mapping pattern="app.config" type="YAML" />
+      <mapping pattern="cronjob.config" type="YAML" />
     </extensionMap>
   </component>
 </application>
