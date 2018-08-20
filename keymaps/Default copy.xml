@@ -54,10 +54,19 @@
     <keyboard-shortcut first-keystroke="meta l" />
     <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
+  <action id="GotoRelated" />
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
   <action id="IncrementWindowHeight" />
   <action id="IntroduceField" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+    <keyboard-shortcut first-keystroke="ctrl meta down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+    <keyboard-shortcut first-keystroke="ctrl meta up" />
+  </action>
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
   <action id="NextTab">
