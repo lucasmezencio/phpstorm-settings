@@ -3,12 +3,12 @@
     <option name="bundles">
       <list>
         <BundleConfigBean>
-          <option name="name" value="Ruby" />
-          <option name="path" value="$USER_HOME$/projects/bundles/ruby.tmbundle" />
+          <option name="name" value="Python" />
+          <option name="path" value="/Volumes/1TB/projects/bundles/python.tmbundle" />
         </BundleConfigBean>
         <BundleConfigBean>
-          <option name="name" value="Python" />
-          <option name="path" value="$USER_HOME$/projects/bundles/python.tmbundle" />
+          <option name="name" value="Ruby" />
+          <option name="path" value="/Volumes/1TB/projects/bundles/ruby.tmbundle" />
         </BundleConfigBean>
       </list>
     </option>
