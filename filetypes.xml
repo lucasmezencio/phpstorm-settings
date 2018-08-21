@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".env.*" type="Ini" />
+      <mapping pattern=".editorconfig" type="Ini" />
       <mapping pattern=".env" type="Ini" />
       <mapping pattern="app.config" type="YAML" />
       <mapping pattern="cronjob.config" type="YAML" />
