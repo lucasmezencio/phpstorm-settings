@@ -47,4 +47,11 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="sdump" value="dump($VAR$);&#10;die;" description="Symfony dump and die" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+      <option name="PHP Comment" value="false" />
+    </context>
+  </template>
 </templateSet>
