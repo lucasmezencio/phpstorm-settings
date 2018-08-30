@@ -4,6 +4,8 @@
       <mapping pattern=".env.*" type="Ini" />
       <mapping pattern=".env" type="Ini" />
       <mapping pattern=".editorconfig" type="Ini" />
+      <removed_mapping ext="cgi" type="PLAIN_TEXT" />
+      <removed_mapping ext="rb" type="PLAIN_TEXT" />
       <mapping pattern="cronjob.config" type="YAML" />
       <mapping pattern="app.config" type="YAML" />
     </extensionMap>
