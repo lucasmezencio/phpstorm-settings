@@ -9,6 +9,7 @@
   </action>
   <action id="Back">
     <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="ctrl f7" />
   </action>
   <action id="ChangesView.GroupBy.Directory" />
   <action id="CloseProject">
@@ -60,6 +61,7 @@
   </action>
   <action id="Forward">
     <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="ctrl f9" />
   </action>
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="meta l" />
