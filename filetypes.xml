@@ -1,13 +1,14 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern=".env.*" type="Ini" />
-      <mapping pattern=".env" type="Ini" />
       <mapping pattern=".editorconfig" type="Ini" />
+      <mapping pattern=".env" type="Ini" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="njk" type="Twig" />
-      <mapping pattern="cronjob.config" type="YAML" />
       <mapping pattern="app.config" type="YAML" />
+      <mapping pattern="cronjob.config" type="YAML" />
     </extensionMap>
   </component>
 </application>
