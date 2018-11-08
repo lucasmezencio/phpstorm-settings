@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="exec" type="Bash" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern=".env.*" type="Ini" />
       <mapping pattern=".editorconfig" type="Ini" />
