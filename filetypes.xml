@@ -7,8 +7,6 @@
       <mapping pattern=".editorconfig" type="Ini" />
       <mapping pattern=".env" type="Ini" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <removed_mapping ext="rb" type="PLAIN_TEXT" />
-      <removed_mapping ext="cgi" type="PLAIN_TEXT" />
       <mapping ext="njk" type="Twig" />
       <mapping pattern="app.config" type="YAML" />
       <mapping pattern="cronjob.config" type="YAML" />
