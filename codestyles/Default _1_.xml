@@ -1,4 +1,7 @@
 <code_scheme name="Default (1)" version="173">
+  <HTMLCodeStyleSettings>
+    <option name="HTML_ENFORCE_QUOTES" value="true" />
+  </HTMLCodeStyleSettings>
   <JSCodeStyleSettings version="0">
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
