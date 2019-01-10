@@ -70,6 +70,10 @@
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="SendEOF" />
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="ctrl alt s" />
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
   <action id="Uml.ShowDiff" />
   <action id="com.jetbrains.php.framework.FrameworkRunConsoleAction" />
   <action id="openAssertEqualsDiff" />
