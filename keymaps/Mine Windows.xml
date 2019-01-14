@@ -5,6 +5,9 @@
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
   <action id="ChangesView.GroupBy.Directory" />
+  <action id="CheckinFiles">
+    <keyboard-shortcut first-keystroke="ctrl alt k" />
+  </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
@@ -48,6 +51,7 @@
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
   <action id="FindInPath" />
+  <action id="Git.Commit.And.Push.Executor" />
   <action id="Git.ResolveConflicts">
     <keyboard-shortcut first-keystroke="shift ctrl k" />
   </action>
@@ -55,6 +59,7 @@
   <action id="GotoClass" />
   <action id="GotoFile" />
   <action id="GotoTest" />
+  <action id="Hg.Commit.And.Push.Executor" />
   <action id="Images.ShowThumbnails" />
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="alt insert" />
