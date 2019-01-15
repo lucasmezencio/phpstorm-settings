@@ -111,6 +111,10 @@
     <keyboard-shortcut first-keystroke="ctrl alt s" />
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
+  <action id="ToggleBookmark" />
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
   <action id="Uml.ShowDiff" />
   <action id="Vcs.Push" />
   <action id="com.jetbrains.php.framework.FrameworkRunConsoleAction" />
