@@ -1,4 +1,5 @@
 <code_scheme name="Default (1)" version="173">
+  <option name="LINE_SEPARATOR" value="&#10;" />
   <HTMLCodeStyleSettings>
     <option name="HTML_ENFORCE_QUOTES" value="true" />
   </HTMLCodeStyleSettings>
@@ -24,7 +25,6 @@
     <option name="myVersion" value="0" />
     <option name="ALIAS_CASE" value="4" />
     <option name="TYPE_CASE" value="3" />
-    <option name="QUERY_EL_COMMA" value="0" />
     <option name="QUERY_TRUE_INDENT" value="false" />
     <option name="QUERY_ALIGN_ELEMENTS" value="false" />
     <option name="QUERY_ALIGN_LINE_COMMENTS" value="false" />
@@ -52,6 +52,7 @@
     <option name="TABLE_ALTER_INSTRUCTION_ALIGN" value="false" />
     <option name="POST_OPT_WRAP_1" value="true" />
     <option name="POST_OPT_ALIGN" value="false" />
+    <option name="ROUTINE_ARG_COMMA" value="2" />
     <option name="IMP_DECLARE_EL_WRAP" value="3" />
     <option name="IMP_DECLARE_ALIGN_TYPE" value="false" />
     <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
@@ -82,7 +83,6 @@
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
     <option name="BLANK_LINES_AFTER_PACKAGE" value="1" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
-    <option name="SPACE_AFTER_TYPE_CAST" value="true" />
     <option name="CALL_PARAMETERS_WRAP" value="1" />
     <option name="METHOD_PARAMETERS_WRAP" value="5" />
     <option name="METHOD_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
