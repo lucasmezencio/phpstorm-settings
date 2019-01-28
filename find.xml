@@ -9,7 +9,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="!compilation-stats.json" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -22,5 +22,6 @@
     <mask>*.php</mask>
     <mask>*.tpl</mask>
     <mask>*</mask>
+    <mask>!compilation-stats.json</mask>
   </component>
 </application>
