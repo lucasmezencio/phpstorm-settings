@@ -4,15 +4,15 @@
       <mapping pattern="exec" type="Bash" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern=".env.*" type="Ini" />
-      <mapping pattern=".editorconfig" type="Ini" />
       <mapping pattern=".env" type="Ini" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="phps" type="PHP" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <removed_mapping ext="rb" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cgi" approved="true" type="PLAIN_TEXT" />
       <mapping ext="njk" type="Twig" />
-      <mapping pattern="app.config" type="YAML" />
       <mapping pattern="cronjob.config" type="YAML" />
+      <mapping pattern="app.config" type="YAML" />
       <removed_mapping ext="rb" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cgi" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
