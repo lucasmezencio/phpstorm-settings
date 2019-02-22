@@ -1,5 +1,5 @@
 <templateSet group="PHP">
-  <template name="dump" value="$OPTION$&#10;die(var_dump($VAR$));" description="die and dump" toReformat="false" toShortenFQNames="true">
+  <template name="dump" value="$OPTION$&#10;var_dump($VAR$);&#10;die$END$;" description="die and dump" toReformat="false" toShortenFQNames="true">
     <variable name="OPTION" expression="" defaultValue="&quot;echo '&lt;pre&gt;';&quot;" alwaysStopAt="true" />
     <variable name="VAR" expression="" defaultValue="&quot;$var&quot;" alwaysStopAt="true" />
     <context>
