@@ -8,6 +8,9 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="ctrl dead_grave" />
   </action>
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="shift alt a" />
+  </action>
   <action id="ChangesView.GroupBy.Directory" />
   <action id="CheckinFiles">
     <keyboard-shortcut first-keystroke="ctrl alt k" />
@@ -53,6 +56,7 @@
     <keyboard-shortcut first-keystroke="shift tab" />
     <keyboard-shortcut first-keystroke="ctrl open_bracket" />
   </action>
+  <action id="ExpressionTypeInfo" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
@@ -73,6 +77,9 @@
   <action id="GotoTest" />
   <action id="Hg.Commit.And.Push.Executor" />
   <action id="Images.ShowThumbnails" />
+  <action id="ManageRecentProjects">
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
+  </action>
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="shift alt down" />
     <keyboard-shortcut first-keystroke="ctrl alt down" />
@@ -131,7 +138,9 @@
     <keyboard-shortcut first-keystroke="f11" />
   </action>
   <action id="Uml.ShowDiff" />
+  <action id="Vcs.Log.ShowAllAffected" />
   <action id="Vcs.Push" />
+  <action id="VcsHistory.ShowAllAffected" />
   <action id="com.jetbrains.php.framework.FrameworkRunConsoleAction" />
   <action id="openAssertEqualsDiff" />
 </keymap>
