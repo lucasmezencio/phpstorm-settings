@@ -27,11 +27,6 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="php" value="&lt;?php &#10;$END$ &#10;?&gt;" description="php tags with a new line" toReformat="true" toShortenFQNames="true">
-    <context>
-      <option name="HTML" value="true" />
-    </context>
-  </template>
   <template name="phpfor" value="&lt;?php for ( $EXP1$; $EXP2$; $EXP3$ ) : ?&gt;&#10;$END$&#10;&lt;?php endfor; ?&gt;&#10;" description="&lt;?php for...endfor; ?&gt;" toReformat="true" toShortenFQNames="true">
     <variable name="EXP1" expression="phpVar" defaultValue="&quot;$i=0&quot;" alwaysStopAt="true" />
     <variable name="EXP2" expression="" defaultValue="&quot;$i&lt;10&quot;" alwaysStopAt="true" />

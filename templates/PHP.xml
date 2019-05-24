@@ -13,7 +13,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="php" value="&lt;?php $END$$PHP_END$" description="PHP tags" toReformat="false" toShortenFQNames="true">
+  <template name="php" value="&lt;?php $PHP_END$" description="PHP tags" toReformat="false" toShortenFQNames="true">
     <variable name="PHP_END" expression="" defaultValue="&quot; ?&gt;&quot;" alwaysStopAt="true" />
     <context>
       <option name="HTML" value="true" />
