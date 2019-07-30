@@ -133,6 +133,9 @@
     <keyboard-shortcut first-keystroke="alt home" />
   </action>
   <action id="Uml.ShowDiff" />
+  <action id="Vcs.CopyRevisionNumberAction">
+    <keyboard-shortcut first-keystroke="ctrl meta c" />
+  </action>
   <action id="Vcs.EditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
