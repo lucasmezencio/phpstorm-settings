@@ -17,6 +17,7 @@
   </action>
   <action id="CheckinFiles">
     <keyboard-shortcut first-keystroke="meta alt s" />
+    <keyboard-shortcut first-keystroke="ctrl meta k" />
   </action>
   <action id="CloseContent" />
   <action id="CloseEditor">
