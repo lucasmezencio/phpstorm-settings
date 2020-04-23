@@ -5,11 +5,13 @@
       <removed_mapping pattern=".env.*" approved="true" type=".env file" />
       <removed_mapping pattern=".env" approved="true" type=".env file" />
       <mapping pattern="consumer" type="Bash" />
+      <mapping pattern=".php_cs.dist" type="PHP" />
       <mapping ext="phps" type="PHP" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern="*.xml.dist" type="XML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
