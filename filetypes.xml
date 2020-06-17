@@ -1,9 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".env*" type=".env file" />
-      <removed_mapping pattern=".env.*" approved="true" type=".env file" />
-      <removed_mapping pattern=".env" approved="true" type=".env file" />
       <mapping pattern="consumer" type="Bash" />
       <mapping pattern=".php_cs.dist" type="PHP" />
       <mapping ext="phps" type="PHP" />
