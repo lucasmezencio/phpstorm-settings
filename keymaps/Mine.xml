@@ -19,7 +19,6 @@
     <keyboard-shortcut first-keystroke="meta alt s" />
     <keyboard-shortcut first-keystroke="ctrl meta k" />
   </action>
-  <action id="CloseContent" />
   <action id="CloseEditor">
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
@@ -128,6 +127,9 @@
   <action id="IntroduceField" />
   <action id="Jdbc.OpenTableEditor">
     <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="ManageRecentProjects">
+    <keyboard-shortcut first-keystroke="shift meta o" />
   </action>
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="ctrl meta down" />
