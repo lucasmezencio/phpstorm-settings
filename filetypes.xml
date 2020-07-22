@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".env.local" type=".env file" />
       <removed_mapping pattern=".env.*" approved="true" type=".env file" />
       <removed_mapping pattern=".env" approved="true" type=".env file" />
       <mapping pattern="consumer" type="Bash" />
