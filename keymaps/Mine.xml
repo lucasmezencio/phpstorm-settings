@@ -89,6 +89,11 @@
     <keyboard-shortcut first-keystroke="meta open_bracket" />
     <keyboard-shortcut first-keystroke="shift tab" />
   </action>
+  <action id="ExpandAllRegions">
+    <keyboard-shortcut first-keystroke="shift meta add" />
+    <keyboard-shortcut first-keystroke="shift meta equals" />
+    <keyboard-shortcut first-keystroke="shift meta plus" />
+  </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="FileStructurePopup">
