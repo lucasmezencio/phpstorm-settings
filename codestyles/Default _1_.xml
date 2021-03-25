@@ -1,10 +1,11 @@
 <code_scheme name="Default (1)" version="173">
   <option name="LINE_SEPARATOR" value="&#10;" />
   <option name="SOFT_MARGINS" value="80" />
-  <DB2CodeStyleSettings version="2">
-    <option name="ALIAS_CASE" value="4" />
-    <option name="KEYWORD_CASE" value="0" />
+  <DB2CodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
     <option name="TYPE_CASE" value="3" />
+    <option name="CUSTOM_TYPE_CASE" value="3" />
+    <option name="ALIAS_CASE" value="4" />
     <option name="QUERY_TRUE_INDENT" value="false" />
     <option name="QUERY_ALIGN_ELEMENTS" value="false" />
     <option name="QUERY_ALIGN_LINE_COMMENTS" value="false" />
@@ -42,10 +43,11 @@
     <option name="EXPR_CASE_THEN_WRAP" value="true" />
     <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
   </DB2CodeStyleSettings>
-  <DerbyCodeStyleSettings version="2">
-    <option name="ALIAS_CASE" value="4" />
-    <option name="KEYWORD_CASE" value="0" />
+  <DerbyCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
     <option name="TYPE_CASE" value="3" />
+    <option name="CUSTOM_TYPE_CASE" value="3" />
+    <option name="ALIAS_CASE" value="4" />
     <option name="QUERY_TRUE_INDENT" value="false" />
     <option name="QUERY_ALIGN_ELEMENTS" value="false" />
     <option name="QUERY_ALIGN_LINE_COMMENTS" value="false" />
@@ -83,10 +85,11 @@
     <option name="EXPR_CASE_THEN_WRAP" value="true" />
     <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
   </DerbyCodeStyleSettings>
-  <H2CodeStyleSettings version="2">
-    <option name="ALIAS_CASE" value="4" />
-    <option name="KEYWORD_CASE" value="0" />
+  <H2CodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
     <option name="TYPE_CASE" value="3" />
+    <option name="CUSTOM_TYPE_CASE" value="3" />
+    <option name="ALIAS_CASE" value="4" />
     <option name="QUERY_TRUE_INDENT" value="false" />
     <option name="QUERY_ALIGN_ELEMENTS" value="false" />
     <option name="QUERY_ALIGN_LINE_COMMENTS" value="false" />
@@ -121,10 +124,11 @@
     <option name="EXPR_CASE_THEN_WRAP" value="true" />
     <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
   </H2CodeStyleSettings>
-  <HSQLCodeStyleSettings version="2">
-    <option name="ALIAS_CASE" value="4" />
-    <option name="KEYWORD_CASE" value="0" />
+  <HSQLCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
     <option name="TYPE_CASE" value="3" />
+    <option name="CUSTOM_TYPE_CASE" value="3" />
+    <option name="ALIAS_CASE" value="4" />
     <option name="QUERY_TRUE_INDENT" value="false" />
     <option name="QUERY_ALIGN_ELEMENTS" value="false" />
     <option name="QUERY_ALIGN_LINE_COMMENTS" value="false" />
@@ -170,10 +174,11 @@
     <option name="ENFORCE_TRAILING_COMMA" value="WhenMultiline" />
     <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
   </JSCodeStyleSettings>
-  <MSSQLCodeStyleSettings version="2">
-    <option name="ALIAS_CASE" value="4" />
-    <option name="KEYWORD_CASE" value="0" />
+  <MSSQLCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
     <option name="TYPE_CASE" value="3" />
+    <option name="CUSTOM_TYPE_CASE" value="3" />
+    <option name="ALIAS_CASE" value="4" />
     <option name="QUERY_TRUE_INDENT" value="false" />
     <option name="QUERY_ALIGN_ELEMENTS" value="false" />
     <option name="QUERY_ALIGN_LINE_COMMENTS" value="false" />
@@ -211,10 +216,11 @@
     <option name="EXPR_CASE_THEN_WRAP" value="true" />
     <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
   </MSSQLCodeStyleSettings>
-  <MySQLCodeStyleSettings version="2">
-    <option name="ALIAS_CASE" value="4" />
-    <option name="KEYWORD_CASE" value="0" />
+  <MySQLCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
     <option name="TYPE_CASE" value="3" />
+    <option name="CUSTOM_TYPE_CASE" value="3" />
+    <option name="ALIAS_CASE" value="4" />
     <option name="QUERY_TRUE_INDENT" value="false" />
     <option name="QUERY_ALIGN_ELEMENTS" value="false" />
     <option name="QUERY_ALIGN_LINE_COMMENTS" value="false" />
@@ -249,10 +255,11 @@
     <option name="EXPR_CASE_THEN_WRAP" value="true" />
     <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
   </MySQLCodeStyleSettings>
-  <OracleCodeStyleSettings version="2">
-    <option name="ALIAS_CASE" value="4" />
-    <option name="KEYWORD_CASE" value="0" />
+  <OracleCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
     <option name="TYPE_CASE" value="3" />
+    <option name="CUSTOM_TYPE_CASE" value="3" />
+    <option name="ALIAS_CASE" value="4" />
     <option name="QUERY_TRUE_INDENT" value="false" />
     <option name="QUERY_ALIGN_ELEMENTS" value="false" />
     <option name="QUERY_ALIGN_LINE_COMMENTS" value="false" />
@@ -305,10 +312,11 @@
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
     <option name="NEW_LINE_AFTER_PHP_OPENING_TAG" value="true" />
   </PHPCodeStyleSettings>
-  <PostgresCodeStyleSettings version="2">
-    <option name="ALIAS_CASE" value="4" />
-    <option name="KEYWORD_CASE" value="0" />
+  <PostgresCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
     <option name="TYPE_CASE" value="3" />
+    <option name="CUSTOM_TYPE_CASE" value="3" />
+    <option name="ALIAS_CASE" value="4" />
     <option name="QUERY_TRUE_INDENT" value="false" />
     <option name="QUERY_ALIGN_ELEMENTS" value="false" />
     <option name="QUERY_ALIGN_LINE_COMMENTS" value="false" />
@@ -346,10 +354,11 @@
     <option name="EXPR_CASE_THEN_WRAP" value="true" />
     <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
   </PostgresCodeStyleSettings>
-  <SQLiteCodeStyleSettings version="2">
-    <option name="ALIAS_CASE" value="4" />
-    <option name="KEYWORD_CASE" value="0" />
+  <SQLiteCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
     <option name="TYPE_CASE" value="3" />
+    <option name="CUSTOM_TYPE_CASE" value="3" />
+    <option name="ALIAS_CASE" value="4" />
     <option name="QUERY_TRUE_INDENT" value="false" />
     <option name="QUERY_ALIGN_ELEMENTS" value="false" />
     <option name="QUERY_ALIGN_LINE_COMMENTS" value="false" />
@@ -384,10 +393,10 @@
     <option name="EXPR_CASE_THEN_WRAP" value="true" />
     <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
   </SQLiteCodeStyleSettings>
-  <SqlCodeStyleSettings version="2">
-    <option name="ALIAS_CASE" value="4" />
-    <option name="KEYWORD_CASE" value="0" />
+  <SqlCodeStyleSettings version="5">
     <option name="TYPE_CASE" value="3" />
+    <option name="CUSTOM_TYPE_CASE" value="3" />
+    <option name="ALIAS_CASE" value="4" />
     <option name="QUERY_TRUE_INDENT" value="false" />
     <option name="QUERY_ALIGN_ELEMENTS" value="false" />
     <option name="QUERY_ALIGN_LINE_COMMENTS" value="false" />
@@ -432,10 +441,11 @@
     <option name="ALIGN_INSIDE_QUERY_EXPRESSION" value="false" />
     <option name="ALIGN_EQ_INSIDE_SET_CLAUSE" value="false" />
   </SqlCodeStyleSettings>
-  <SybaseCodeStyleSettings version="2">
-    <option name="ALIAS_CASE" value="4" />
-    <option name="KEYWORD_CASE" value="0" />
+  <SybaseCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
     <option name="TYPE_CASE" value="3" />
+    <option name="CUSTOM_TYPE_CASE" value="3" />
+    <option name="ALIAS_CASE" value="4" />
     <option name="QUERY_TRUE_INDENT" value="false" />
     <option name="QUERY_ALIGN_ELEMENTS" value="false" />
     <option name="QUERY_ALIGN_LINE_COMMENTS" value="false" />
@@ -505,7 +515,6 @@
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
     <option name="ALIGN_MULTILINE_EXTENDS_LIST" value="true" />
-    <option name="SPACE_AFTER_TYPE_CAST" value="true" />
     <option name="CALL_PARAMETERS_WRAP" value="5" />
     <option name="CALL_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
     <option name="CALL_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
